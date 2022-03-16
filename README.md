@@ -1,0 +1,2 @@
+# rubyonrails
+class activities
